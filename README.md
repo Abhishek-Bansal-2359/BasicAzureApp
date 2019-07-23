@@ -1,2 +1,1 @@
-# BasicAzureApp
-Basic Azure Deployment APplication
+# CodeItBro
